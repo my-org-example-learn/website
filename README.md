@@ -2,4 +2,4 @@
 
 This is a really awesome website
 
-Now updating readme
+Some update
